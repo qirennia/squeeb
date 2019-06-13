@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a034a0c-6729-4e2c-b719-a939dfe9cd1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/squeeb.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/instruction.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vm.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/vm.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+            <state relative-caret-position="464">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -84,15 +79,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="squeeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="squeeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549415125583" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549415952268" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -155,6 +160,17 @@
       <updated>1548622328402</updated>
       <workItem from="1548790499134" duration="1616000" />
       <workItem from="1549415049541" duration="80000" />
+      <workItem from="1549415896823" duration="57000" />
+      <workItem from="1551645361601" duration="735000" />
+      <workItem from="1552029008669" duration="8000" />
+      <workItem from="1553058543083" duration="26000" />
+      <workItem from="1553059170061" duration="140000" />
+      <workItem from="1553059502628" duration="2682000" />
+      <workItem from="1555216531888" duration="15000" />
+      <workItem from="1555218113586" duration="9000" />
+      <workItem from="1555218441386" duration="30000" />
+      <workItem from="1555218501283" duration="596000" />
+      <workItem from="1559593102960" duration="2753000" />
     </task>
     <servers />
   </component>
@@ -191,13 +207,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1696000" />
+    <option name="totallyTimeSpent" value="8747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.25101215" />
-      <window_info id="Structure" order="1" sideWeight="0.5008881" side_tool="true" visible="true" weight="0.25101215" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47957373" visible="true" weight="0.29392713" />
+      <window_info id="Structure" order="1" sideWeight="0.5204263" side_tool="true" visible="true" weight="0.29392713" />
       <window_info id="Designer" order="2" />
       <window_info id="DB Browser" order="3" />
       <window_info id="Image Layers" order="4" />
@@ -285,6 +301,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -301,8 +328,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vm.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+        <state relative-caret-position="464">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
